@@ -1,7 +1,7 @@
 <h1>PhotoFolio Application</h1>
 This is an online photo album project from coding ninjas, where an user can create his/her album and add pictures to it.
 
-<a href="" target="_blank" >Go Live</a>
+<a href="https://photo-folio-eight.vercel.app/" target="_blank" >Go Live</a>
 
 <h2>Installation</h2>
 To run this code on your machine
